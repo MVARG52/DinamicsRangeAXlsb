@@ -8,6 +8,7 @@ from openpyxl import load_workbook
 hojaDinamic=1
 valor=None
 
+
 todos=False
 parametros=['a','b',1,10]
 encabezado=['campo1','campo2','campo3','campo4','campo5']
