@@ -5,7 +5,6 @@ import csv
 from pyxlsb import open_workbook
 from openpyxl import load_workbook
 
-
 hojaDinamic=1
 valor=None
 
